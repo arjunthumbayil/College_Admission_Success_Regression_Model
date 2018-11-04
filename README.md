@@ -2,9 +2,9 @@
 
 ## Business Objective:
 
-    1. Build a smart Predictive tool that can assess the chances of a Student's entry into multiple Tier US Tech Schools.
-    2. Develop a prototype model that uses Student data to produce admission probability for each student.
-    3. Explore historical student data, using statistical analysis and Machine Learning, to understand and identify factors that may affect a Student's success at getting into their dream University.
+   1. Build a smart Predictive tool that can assess the chances of a Student's entry into multiple Tier US Tech Schools.
+   2. Develop a prototype model that uses Student data to produce admission probability for each student.
+   3. Explore historical student data, using statistical analysis and Machine Learning, to understand and identify factors that may affect a Student's success at getting into their dream University.
 
 
 ## Motivation:
