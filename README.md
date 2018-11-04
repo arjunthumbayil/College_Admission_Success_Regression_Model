@@ -9,7 +9,7 @@
 
 ## Motivation:
 
-After observing many of my friends trying hard and not getting into the University of their choice in the US, I was intrigued by the admissions, which from outdside seems like a black-box, could actually be broken down using Analytics and predicted by Machine Learning. When a candidate gets a low GRE or TOEFL score it is a cause anxiety and tension. So, I look whether they play as much an important role, or there are other factors that can quantitatively outweigh Standardized Test Scores. Furthermore, this tool can help students in building a stronger Profile.
+After observing many of my friends trying hard and not getting into the University of their choice in the US, I was intrigued by the admissions, which from outside seems like a black-box, could actually be broken down using Analytics and predicted by Machine Learning. When a candidate gets a low GRE or TOEFL score it is a cause anxiety and tension. So, I look whether they play as much an important role, or there are other factors that can quantitatively outweigh Standardized Test Scores. Furthermore, this tool can help students in building a stronger Profile.
  
 
 ## Workflow :
