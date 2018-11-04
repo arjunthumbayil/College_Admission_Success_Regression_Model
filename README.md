@@ -9,7 +9,7 @@
 
 ## Motivation:
 
-After observing many of my friends trying hard and not getting into the University of their choice in the US, I was intrigued to know whether the admission process that seems to be a black-box can be broken down using Analytical tools. Anxiety can be caused by low GRE and TOEFL scores. So, I shall look whether they play an important role or are there other factors than can quantitatively outweigh Standardized Test Scores. Furthermore, this tool can help students in building a stronger Profile.l
+After observing many of my friends trying hard and not getting into the University of their choice in the US, I was intrigued by the admissions, which from outdside seems like a black-box, could actually be broken down using Analytics and predicted by Machine Learning. When a candidate gets a low GRE or TOEFL score it is a cause anxiety and tension. So, I look whether they play as much an important role, or there are other factors that can quantitatively outweigh Standardized Test Scores. Furthermore, this tool can help students in building a stronger Profile.
  
 
 ## Workflow :
@@ -36,5 +36,5 @@ After observing many of my friends trying hard and not getting into the Universi
 
 ## Conclusion:
 
-Using a very simple Linear Regression model, the prediction of getting into a University is quite good. It is too be seen that TOEFL score is quite insignificant factor in deciding the admissibility of a student to any University. Whereas, GRE scores, University Tier, Letter of Recommendation and Previous Research can play an important role in predicting the admissibility.
+Using a very simple Linear Regression model the prediction of getting into a University is quite good. It is seen that TOEFL score is quite insignificant factor in deciding the admit of a student to any University. Whereas, GRE scores, University Tier, Letter of Recommendation and Previous Research can play an important role in predicting the admit.
     
