@@ -24,7 +24,7 @@ admission = pd.read_csv("Admissions.csv")
   
 - 2.2 Dummification of categorical Variables
 
-   3. **Data Modeling**
+ 3. **Data Modeling**
         - 3.1 Statistical Learning
             - Building a statistical Regression Model to find statistically significant factors.
             - 3.1.1 Interpret the p-values (Set 5% as level of significance) 
