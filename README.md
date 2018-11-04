@@ -20,8 +20,9 @@ After observing many of my friends trying hard and not getting into the Universi
         - 2.1 Reading Data from the csv file:
         ```python
 admission = pd.read_csv("Admissions.csv")
-```
-        - 2.2 Dummification of categorical Variables
+                ```
+  
+- 2.2 Dummification of categorical Variables
 
    3. **Data Modeling**
         - 3.1 Statistical Learning
