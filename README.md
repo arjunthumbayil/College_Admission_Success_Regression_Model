@@ -36,5 +36,5 @@ After observing many of my friends trying hard and not getting into the Universi
 
 ## Conclusion:
 
-Using a very simple Linear Regression model the prediction of getting into a University is quite good. It is seen that TOEFL score is quite insignificant factor in deciding the admit of a student to any University. Whereas, GRE scores, University Tier, Letter of Recommendation and Previous Research can play an important role in predicting the admit.
+Using a very simple Linear Regression model the prediction of getting into a University is quite good. It is seen that TOEFL score is quite insignificant factor in deciding the admit of a student to any University. Whereas, GRE scores, University Ranking, Letter of Recommendation and Previous Research can play an important role in predicting the admit.
     
